@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manish5200/node-rest-shop.git"
+    "url": "git+https://github.com/niharika5200/Restful-API.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "Manish Kumar Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/manish5200/node-rest-shop/issues"
+    "url": "//https://github.com/niharika5200/Restful-API/issues"
   },
-  "homepage": "https://github.com/manish5200/node-rest-shop#readme",
+  "homepage": "https://github.com/niharika5200/Restful-API#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
